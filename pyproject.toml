@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "kbs"
-version = "0.1.0"
+version = "0.1.1"
 description = "kbs is a command line tool to work with kubernetes secrets"
 authors = ["Steinn Eldjárn Sigurðarson <steinnes@gmail.com>"]
 
