@@ -11,19 +11,18 @@ sensitive configuration values for kubernetes deployments or other constructs.
 
 Simply install this via `pip install kbs` and then follow the command line instructions:
 
-``` $ kbs
+```
+$ kbs
 Usage: kbs [OPTIONS] COMMAND [ARGS]...
 
 Options:
   --help  Show this message and exit.
 
 Commands:
-  envdir
-  get     get a single config variable
-  list    list configuration in var=value (envfile) format
-  load
-  set     set a single config variable
-  unset   remove a single config variable
+  get    get a single config variable
+  list   list configuration in var=value (envfile) format
+  set    set a single config variable
+  unset  remove a single config variable
 ```
 
 
